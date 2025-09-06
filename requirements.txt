@@ -1,0 +1,5 @@
+python-telegram-bot==20.7
+aiohttp==3.9.3
+requests==2.31.0
+cryptography==41.0.7
+psutil==5.9.5
